@@ -94,10 +94,15 @@ blog-management-system/
 ## 👩‍💻 Team Members
 
 ✨ Doha Mohammed — Leader
+
 ✨ Aya Alaa
+
 ✨ Asmaa Mohamed
+
 ✨ Sara Mohamed
+
 ✨ Menna Mohamed
+
 ✨ Ahmed Ashraf
 
 ---
