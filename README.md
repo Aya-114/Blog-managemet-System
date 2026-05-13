@@ -47,3 +47,68 @@ The system provides structured content management with authentication, authoriza
 Users
 Posts
 Comments
+````
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github,docker,vscode"/>
+
+</p>
+
+---
+
+## ⚡ API Features
+
+```mermaid
+graph LR
+A[User Authentication] --> B[JWT Token]
+B --> C[Protected Routes]
+C --> D[Posts CRUD]
+C --> E[Comments CRUD]
+E --> F[Nested Replies]
+```
+
+---
+
+## 📂 Project Structure
+
+```bash
+blog-management-system/
+│
+├── routers/
+├── models/
+├── schemas/
+├── database/
+├── services/
+├── auth/
+├── tests/
+└── main.py
+```
+
+---
+
+## 👩‍💻 Team Members
+
+✨ Doha Mohammed — Leader
+✨ Aya Alaa
+✨ Asmaa Mohamed
+✨ Sara Mohamed
+✨ Menna Mohamed
+✨ Ahmed Ashraf
+
+---
+
+## 🌸 Final Note
+
+This project was developed as a backend practice project focusing on secure API development, clean architecture, authentication, authorization, and scalable blog management workflows 🚀
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
+</p>
+
